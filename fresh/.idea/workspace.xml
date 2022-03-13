@@ -4,25 +4,82 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="009e9595-9b5e-409d-8cf9-d500378e417d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/fresh.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/cart/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/goods/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/message/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/order/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+    <list default="true" id="e765265e-2fb6-433c-9738-9961b7f2f206" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/fresh_vue/.babelrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/.eslintignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/.eslintrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/.postcssrc.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/build.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/check-versions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/utils.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/vue-loader.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/webpack.base.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/webpack.dev.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/build/webpack.prod.conf.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/config/dev.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/config/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/config/prod.env.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/src/router/index.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fresh_vue/static/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../README.md" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cart/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/fresh/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/fresh/urls.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/babel.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/jsconfig.json" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/public/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/public/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/src/App.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/src/App.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/src/components/HelloWorld.vue" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/src/components/HelloWorld.vue" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/src/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/fresh_vue/src/main.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fresh_vue/vue.config.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/goods/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/message/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/admin.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/apps.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/migrations/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/models.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/tests.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/order/views.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/urls.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/user/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/user/views.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.python" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../test2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../urls.py" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,31 +92,24 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="26JzQOB9hs38OBgbDCVRRad50uD" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectId" id="26NZtH4hPR9hG1VRaUr5w6dFaIV" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/user" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="vue.rearranger.settings.migration" value="true" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\11481\Desktop\workspace\xiaolu_fresh_store\fresh\user" />
-      <recent name="C:\Users\11481\Desktop\workspace\xiaolu_fresh_store\fresh\order" />
-      <recent name="C:\Users\11481\Desktop\workspace\xiaolu_fresh_store\fresh\message" />
-      <recent name="C:\Users\11481\Desktop\workspace\xiaolu_fresh_store\fresh\goods" />
-      <recent name="C:\Users\11481\Desktop\workspace\xiaolu_fresh_store\fresh\cart" />
-    </key>
   </component>
   <component name="RunManager">
     <configuration name="fresh" type="Python.DjangoServer" factoryName="Django server">
@@ -87,19 +137,33 @@
       <method v="2" />
     </configuration>
   </component>
-  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
-    <task active="true" id="Default" summary="Default task">
-      <changelist id="009e9595-9b5e-409d-8cf9-d500378e417d" name="Changes" comment="" />
-      <created>1647156462971</created>
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="e765265e-2fb6-433c-9738-9961b7f2f206" name="变更" comment="" />
+      <created>1647266220214</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1647156462971</updated>
-      <workItem from="1647156466824" duration="987000" />
+      <updated>1647266220214</updated>
+      <workItem from="1647266224091" duration="2735000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
